@@ -89,7 +89,7 @@ export default function MainPage() {
             <div className="absolute inset-0 opacity-20">
               <div className="absolute w-96 h-96 -top-48 -left-48 bg-secondary rounded-full blur-3xl animate-pulse"></div>
               <div
-                className="absolute w-96 h-96 -bottom-48 -right-48 bg-[var(--color-accent)] rounded-full blur-3xl animate-pulse"
+                className="absolute w-96 h-96 -bottom-48 -right-48 bg-accent rounded-full blur-3xl animate-pulse"
                 style={{ animationDelay: "2s" }}
               ></div>
             </div>
